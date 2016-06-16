@@ -11,7 +11,7 @@ public class myTest {
         public static void main(String args[]) throws SAXException, IOException {
 
         System.out.println("!!!!!!!!");
-//        System.out.println( System.getProperty("credentials") );
+        System.out.println( System.getProperty("credentials") );
 
 //                XMLReader parser = XMLReaderFactory.createXMLReader();
 //                readWebXml webxmlHandler = new readWebXml();
