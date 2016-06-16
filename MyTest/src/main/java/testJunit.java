@@ -8,5 +8,6 @@ public class testJunit {
     @Test
     public void test(){
         Assert.assertTrue("tttttt", true);
+        Assert.assertTrue("tttttt", true);
     }
 }
